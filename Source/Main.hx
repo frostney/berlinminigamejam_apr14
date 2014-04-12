@@ -10,7 +10,7 @@ class Main extends Game {
 		
 		super ();
 		
-		director.add('testscene', new TestScene());
+		director.add('testscene', new MainScene());
 		director.show('testscene');
 	}
 	

@@ -7,7 +7,7 @@ import openfl.Assets;
  * ...
  * @author Johannes Stein
  */
-class TestGameObject extends GameObject
+class Elephant extends GameObject
 {
 
 	public function new() 
